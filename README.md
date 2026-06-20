@@ -1,5 +1,5 @@
 <h1 align="center">Ebad Ur Rehman</h1>
-<h3 align="center">Aspiring Cybersecurity & Network Security Engineer | 6th Sem CS Student</h3>
+<h3 align="center">Aspiring Cybersecurity & Network Security Engineer | CS Student</h3>
 
 <p align="center">
   Building hands-on skills in networking and cybersecurity through labs, certifications, and documented projects.
@@ -9,7 +9,7 @@
 
 ### About Me
 
-- 6th semester Computer Science student, currently building a foundation in **networking** and **cybersecurity**
+- Computer Science student, currently building a foundation in **networking** and **cybersecurity**
 - Solid grasp of networking fundamentals — subnetting, routing, switching, and troubleshooting
 - Working through industry-recognized certifications to develop practical, job-ready security skills
 - Build labs, document findings, and approach problems the way a working analyst or network engineer would
