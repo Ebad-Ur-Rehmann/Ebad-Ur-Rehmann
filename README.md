@@ -50,7 +50,6 @@
 | **[Security Incident Detection Lab](#)** | Simulated an attack on a vulnerable VM, detected it via log/traffic analysis, authored an incident report |
 | **[Firewall & VPN Configuration](#)** | Configured FortiGate/pfSense firewall policies, NAT rules, and a site-to-site VPN tunnel |
 
-*(Replace the `#` links once each repo is live, and pin these 4 repos on your profile page.)*
 
 ---
 
